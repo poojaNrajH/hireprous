@@ -9,6 +9,7 @@
 #---------------------------------------------------------------------------------------------------------------------------------
 Feature: Checking configurations functionality of HirePros
 
+
   #Scenario-1
   @SmokeTest
   Scenario: Filling Business Unit creation
